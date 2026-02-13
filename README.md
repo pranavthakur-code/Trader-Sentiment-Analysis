@@ -56,7 +56,7 @@ The objective is to understand whether market sentiment influences trader behavi
 
 ## 📦 Repository Contents
 
-- `Untitled12.ipynb` → Full analysis notebook
+- `Trader_Sentiment_Analysis.ipynb` → Full analysis notebook
 - README.md → Project documentation
 
 ---
